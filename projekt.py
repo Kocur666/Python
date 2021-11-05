@@ -1,7 +1,7 @@
 import sys
 import re
 
-word = "kam"
+word = "kamyk"
 used_letters = []
 user_word = []
 no_of_tries = 5
